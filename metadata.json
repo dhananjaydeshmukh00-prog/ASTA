@@ -1,0 +1,6 @@
+{
+  "name": "ASTA Eye-Opener Session",
+  "description": "The 3-hour live stock market session by Avadhut Sathe explaining what 9 out of 10 beginners get wrong about investing and trading.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
